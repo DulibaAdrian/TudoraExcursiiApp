@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\adrian\Desktop\TudoraApp\TudoraExcursiiApp\.metadata\.plugins\org.eclipse.jdt.core
+52271283.index
+789344348.index
